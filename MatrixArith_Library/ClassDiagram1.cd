@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MatrixArith_Library.Operands">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACAgAAAAAAAAAAAAACAQAIABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatrixArith_Library.Operations">
+    <Position X="10.75" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatrixArith_Library.SeveralArrays">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABAAAAAAAAAAAAAAAAAAAAAAAAAgAIAEAAAAAAAAA=</HashCode>
+      <FileName>SeveralArrays.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatrixArith_Library.SingleArrays">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="MatrixArith_Library.Operands" ManuallyRouted="true">
+      <Path>
+        <Point X="10.75" Y="3.017" />
+        <Point X="10.75" Y="3.25" />
+        <Point X="6" Y="3.25" />
+        <Point X="6" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAABAAAAAEAAAAgAAAAAAIAAAAAAAAAAAAAgABAAAAA=</HashCode>
+      <FileName>SingleArrays.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
